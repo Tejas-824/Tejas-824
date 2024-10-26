@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** skilled in **Ja
 
 ---
 
-![Anime Web Developer]([path/to/your/anime-image.png](https://image.lexica.art/full_jpg/65fb86dc-cfe9-4c4a-89f8-d76d610eb498))
+![path/to/your/anime-image.png](https://image.lexica.art/full_jpg/65fb86dc-cfe9-4c4a-89f8-d76d610eb498))
 
 ## 🛠️ My Skills
 **Languages & Frameworks:**
