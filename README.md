@@ -2,8 +2,8 @@
 Welcome to my GitHub profile! I'm a passionate **Web Developer** skilled in **Java**, **JavaScript**, **HTML**, **CSS**, and **React**. I love bringing creative ideas to life through code and exploring new technologies.
 
 ---
+<img src="https://i.pinimg.com/564x/7d/ce/cb/7dcecb1b0e420a1dfb9cced88f6d2bba.jpg" alt="Image" width="250" />
 
-![path/to/your/anime-image.png](https://image.lexica.art/full_jpg/65fb86dc-cfe9-4c4a-89f8-d76d610eb498))
 
 ## 🛠️ My Skills
 **Languages & Frameworks:**
