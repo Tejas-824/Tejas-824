@@ -1,8 +1,8 @@
 # 👋 Hello! I'm Tejaswini Gohil
-Welcome to my GitHub profile! I'm a passionate **Web Developer** skilled in **Java**, **JavaScript**, **HTML**, **CSS**, and **React**. I love bringing creative ideas to life through code and exploring new technologies.
+Welcome to my GitHub profile! I'm a passionate **Web Developer** skilled in **Java**, **JavaScript**, **HTML**, **CSS**, and **React**. I love bringing creative ideas to life through code and exploring new technologies.👨‍💻
 
 ---
-<img src="https://i.pinimg.com/564x/7d/ce/cb/7dcecb1b0e420a1dfb9cced88f6d2bba.jpg" alt="Image" width="250" />
+<img src="https://i.pinimg.com/564x/7d/ce/cb/7dcecb1b0e420a1dfb9cced88f6d2bba.jpg" alt="Image" width="150" />
 
 
 ## 🛠️ My Skills
