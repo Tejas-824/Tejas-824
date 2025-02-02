@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** skilled in **Ja
 
 ## Let's Connect! 🌐
 - **GitHub:** [GitHub Profile](https://github.com/Tejas-824/Tejas-824)
-- **Portfolio:** [Your Portfolio Link]
+- **Portfolio:** Not Available
 - **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/tejaswini-gohil-43751429b)
 
 ---
