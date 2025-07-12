@@ -26,13 +26,6 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** skilled in **Ja
 
 ---
 
-### 💻 Latest Projects 🌟
-| Project Name | Description | Technologies |
-|--------------|-------------|--------------|
-| **Project 1** | A Portfolio Website| CSS, React |
-| **Project 2** | Photography Website | Html, CSS |
-| **Project 3** | Netflix Clone | Html, CSS |
-
 ---
 
 Feel free to check out my repositories and projects. I’m always open to connect and collaborate on exciting web development projects! 😊
