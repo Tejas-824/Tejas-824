@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 
 
-## 🚀 My Skills  
+## My Skills  
 
 ### 💻 Languages & Technologies  
 <p align="left">
@@ -27,15 +27,19 @@ Welcome to my GitHub profile!
 </p>
 
 
-### 🎨 Creative Side  
-<p align="left">
-  🎬 Video Editing | 📸 Photography
+## Creative Side  
+
+<p align="center">
+  <b><i>“Off the Keyboard, Behind the Lens”</i></b>  
+  <br><br>
+  <code>🎬 Video Editing</code> &nbsp; ✦ &nbsp; <code>📸 Photography</code>  
+  <br><br>
 </p>
 
 
 
 
-## 🔥 What I Love to Build
+## What I Love to Build
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" alt="Coding Animation" />
@@ -46,15 +50,9 @@ Welcome to my GitHub profile!
 </p>
 
 
-<p align="center">
-💻 <b>Dynamic Web Applications</b> with smooth user experience <br>
-🎨 <b>Interactive Front-Ends</b> that feel natural and responsive <br>
-🚀 <b>Creative Projects</b> blending technology with art
-</p>
-
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://github.com/Tejas-824/Tejas-824" target="_blank">
