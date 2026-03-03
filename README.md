@@ -13,17 +13,22 @@ Welcome to my GitHub profile!
 
 ### 💻 Languages & Technologies  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql" />
 </p>
 
 ### ⚙️ Frameworks & Libraries  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind" />
 </p>
 
 ### 🧩 Tools & Platforms  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,figma,canva" />
+</p>
+
+### 🚀 Backend & DevOps  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,githubactions,docker" />
 </p>
 
 
